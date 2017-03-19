@@ -1,2 +1,2 @@
 # flickrtool
-A simple tool for getting images from flickr
+A simple tool for getting images from flickr.
